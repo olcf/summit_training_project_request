@@ -38,6 +38,7 @@ Follow the steps described below to set up your new SecurID Token (fob).
 If you prefer to watch a video to learn how to set a PIN for your new RSA token, please see this <a href="https://vimeo.com/229862977">link</a> from our Vimeo channel.
 
 <h4>Using a SecurID<sup>®</sup> Token (fob) to Log In to Summit</h4>
+
 Initiate a connection to Summit using your OLCF username: <code>ssh userid@summit.olcf.ornl.gov</code>
 
 When prompted for your PASSCODE, enter your PIN followed by the 6 digits shown on your SecurID<sup>®</sup> token before pressing enter. For example, if your pin is <code>1234</code> and the 6 digits on the token are <code>000987</code>, enter <code>1234000987</code> when you are prompted for a PASSCODE.
