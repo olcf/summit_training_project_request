@@ -24,6 +24,7 @@ All OLCF systems currently employ two-factor authentication only. To login to OL
 
 <h4>Activating a new SecurID<sup>®</sup> Token (fob)</h4>
 Follow the steps described below to set up your new SecurID Token (fob).
+<br>
 
 <ol>
  	<li>Initiate an SSH connection to home.ccs.ornl.gov using your OLCF username.
