@@ -16,6 +16,7 @@ For "Account Information", enter the following:
 
 ><strong>NOTE:</strong> After submitting your application, it will need to pass through the approval process. This can take several days so please request access early. Once approved, each project member will be sent (overnight) an RSA token for 2-factor authentication to Summit. Once this is received, you will need to set up a quick (3-minute) video call with OLCF to verify that you, in fact, did receive the token.</p>
 
+&nbsp;
 
 <h3>Step 2: Authenticating to OLCF Systems</h3>
 All OLCF systems currently employ two-factor authentication only. To login to OLCF systems, an RSA SecurID<sup>®</sup> Token (fob) is required.
