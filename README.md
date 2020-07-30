@@ -4,7 +4,7 @@ Please follow the steps below to request access to Summit for OLCF training even
 
 <h3>Step 1: Fill out and submit an <a href="https://www.olcf.ornl.gov/for-users/documents-forms/olcf-account-application"><b>OLCF Account Application Form</b></a></h3>
 Enter the requested information into the form. For "Project Information", enter the following:
-<a href="https://www.olcf.ornl.gov/wp-content/uploads/2020/02/Ascent_Account_Application_4.png"><img src="https://www.olcf.ornl.gov/wp-content/uploads/2019/01/Ascent_Account_Application_1.png" /></a>
+<a href="https://www.olcf.ornl.gov/wp-content/uploads/2020/02/Ascent_Account_Application_4.png"><img src="https://www.olcf.ornl.gov/wp-content/uploads/2020/02/Ascent_Account_Application_4.png" /></a>
 
 <!--
 For "Project Information", enter the following:
